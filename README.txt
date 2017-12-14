@@ -1,5 +1,3 @@
-A small part-time project for Parallels.
-
 httpress_launcher.py is a script to remotely launch httpress, an utility for server stress testing, developed by Parallels.
 https://bitbucket.org/yarosla/httpress/wiki/Home
 
